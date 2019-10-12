@@ -12,7 +12,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  primary_colors = ["blue", "yellow", "green", "red"]
   primary_colors.push("purple")
   
 end

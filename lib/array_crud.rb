@@ -12,6 +12,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
+  primary_colors = ["blue", "yellow", "green", "red"]
   primary_colors.push("purple")
   
 end
@@ -30,11 +31,13 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  
+  primary_colors.shift 
   
 end
 
 def retrieve_element_from_index(array, index_number)
+  
+  
   
 end
 

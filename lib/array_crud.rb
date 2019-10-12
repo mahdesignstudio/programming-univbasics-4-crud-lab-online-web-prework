@@ -18,13 +18,13 @@ end
 
 def add_element_to_start_of_array(array, element)
   
-  primary_colors.unshift("purple")
+  primary_colors.unshift("pink")
   
 end
 
 def remove_element_from_end_of_array(array)
   
-  primary_colors 
+  primary_colors
   
 end
 
